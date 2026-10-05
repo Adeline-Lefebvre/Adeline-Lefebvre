@@ -1,16 +1,17 @@
-## Hi there 👋
+# Adeline Lefebvre
 
-<!--
-**Adeline-Lefebvre/Adeline-Lefebvre** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Freelance fullstack web developer, based in France, working remotely across Europe.
 
-Here are some ideas to get you started:
+I build web products that last, from custom sites to AI apps: Next.js, React, TypeScript, Claude and Mistral, WordPress and Craft CMS. One point of contact, from the first call to production.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Portfolio and recent projects:** [adelinelefebvre.com](https://adelinelefebvre.com)
+
+## What I work on
+
+- **Products and AI apps** · Next.js applications with AI built in: document extraction, automations, assistants, payments.
+- **Custom sites** · Built from a validated design, with a CMS the client's team updates without a developer (Sanity, Prismic, WordPress, Craft CMS).
+- **Existing sites** · Performance, responsive, technical SEO and new features, delivered in small steps.
+
+## Contact
+
+[adelinelefebvre.com](https://adelinelefebvre.com) · [LinkedIn](https://www.linkedin.com/in/adeline-lefebvre-600b46aa/) · adeline.lefe@gmail.com
